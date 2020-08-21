@@ -1,0 +1,492 @@
+.bibitem {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    text-indent: -1em;
+    margin: 5px 0 5px 1em
+    }
+.bookauthoraffi {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 3em 0 15px
+    }
+.booktitle {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-align: center;
+    margin: 2em 0 1em
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    font-size: 1em;
+    font-style: italic
+    }
+.calibre2 {
+    height: auto;
+    width: auto
+    }
+.calibre3 {
+    font-size: 1em;
+    text-decoration: none
+    }
+.calibre4 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre5 {
+    font-size: 1em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre6 {
+    font-size: 1em;
+    font-weight: bold
+    }
+.calibre7 {
+    font-size: 1em;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.calibre8 {
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.2
+    }
+.chapnum {
+    display: block;
+    font-size: 1.83333em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 -0.5em
+    }
+.chaptertitle {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 2.5em
+    }
+.chaptertitlea {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 2.5em
+    }
+.chborder {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: underline;
+    text-indent: 0;
+    margin: 2px 0
+    }
+.copyrightline {
+    background-color: inherit;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.4em 0 0
+    }
+.copyrightline-top {
+    background-color: inherit;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0.7em 0 0
+    }
+.dedication {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 2px
+    }
+.dedicationa {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 2px 0 10px
+    }
+.displaytext {
+    display: block;
+    font-size: 0.75em;
+    margin: 10px 20px;
+    padding: 5px
+    }
+.displaytexta {
+    display: block;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 5px
+    }
+.displaytextf {
+    display: block;
+    font-size: 1em;
+    margin: 10px 20px 20px
+    }
+.displaytexts {
+    display: block;
+    font-size: 0.75em;
+    margin: 20px 0 20px 20px
+    }
+.fm_title {
+    display: block;
+    font-size: 1.66667em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 2.3em
+    }
+.h {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    margin: 2em 0 1em
+    }
+.halftitle {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    margin: 2em 0 1em
+    }
+.indexitem {
+    display: block;
+    font-size: 0.75em;
+    text-indent: -1em;
+    margin: 5px 0 5px 1em
+    }
+.indexitem1 {
+    display: block;
+    font-size: 1em;
+    text-indent: -1.6em;
+    margin: 5px 0 5px 1.6em
+    }
+.indexitem2 {
+    display: block;
+    font-size: 0.75em;
+    text-indent: -1em;
+    margin: 1.4em 0 5px 1em
+    }
+.intro {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 1.5em
+    }
+.item {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: -1.3em;
+    margin: 2px 0 2px 1.3em
+    }
+.item1a {
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    margin: 2px 0
+    }
+.label {
+    line-height: 1.2
+    }
+.label1 {
+    font-size: 0.75em;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0
+    }
+.left {
+    background-color: inherit;
+    display: block;
+    font-size: 0.75em;
+    text-align: left;
+    text-indent: 0;
+    margin: 5px 0
+    }
+.line {
+    font-size: 1em;
+    font-weight: normal
+    }
+.line1 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 2px 0 2px 2em
+    }
+.line2 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 2px 0 2px 1em
+    }
+.linegroup {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 3em;
+    margin-top: 0;
+    padding: 10px
+    }
+.list {
+    display: block;
+    font-size: 1em;
+    text-indent: 0;
+    margin: 10px 0 10px 1em
+    }
+.list1 {
+    display: block;
+    font-size: 1em;
+    margin: 5px 0 2px
+    }
+.lista {
+    display: block;
+    font-size: 1em;
+    text-indent: 0;
+    margin: 10px 0
+    }
+.name {
+    font-size: 1em
+    }
+.notegroup {
+    display: block;
+    font-size: 0.75em;
+    margin: 20px 0 0
+    }
+.para {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 1.3em;
+    margin: 2px 0
+    }
+.parafl {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 2px 0
+    }
+.partnum {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 1em
+    }
+.parttitle {
+    display: block;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 5px 0.8em 1em
+    }
+.publisher {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 20em 0 0.5em
+    }
+.quote {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 5px 0
+    }
+.refnote {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: justify;
+    text-indent: 1em
+    }
+.refnotea {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-top: 5px;
+    text-align: justify;
+    text-indent: 0
+    }
+.right {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: right;
+    text-indent: 0;
+    margin: 5px 0
+    }
+.sc {
+    font-size: 1em;
+    font-variant: small-caps
+    }
+.seriesinfo {
+    display: block
+    }
+.seriespara {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 5px 0 3px
+    }
+.seriespara1 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 0;
+    margin: 5px 0 3px
+    }
+.seriespara2 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: justify;
+    text-indent: 1.3em;
+    margin: 5px 0 3px
+    }
+.speaker {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    font-weight: normal;
+    text-align: justify;
+    text-indent: -1em;
+    margin: 5px 0 5px 1em
+    }
+.speech {
+    display: block;
+    font-size: 1em;
+    margin: 20px 0 10px
+    }
+.title {
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0
+    }
+.title1 {
+    font-size: 1em;
+    font-weight: normal;
+    text-align: center;
+    text-indent: 0
+    }
+.titlepara {
+    background-color: inherit;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 2px
+    }
+.toc {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 24px 0 6px
+    }
+.toc1 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 14px 0 8px 1.8em
+    }
+.toc2 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 2em 0 6px
+    }
+.toc3 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 14px 0 8px 0.7em
+    }
+.toc4 {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 6px 0
+    }
+.toc4a {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 14px 0 8px
+    }
+.toc5a {
+    background-color: inherit;
+    display: block;
+    font-size: 1em;
+    text-align: left;
+    text-indent: 0;
+    margin: 18px 0 6px
+    }
