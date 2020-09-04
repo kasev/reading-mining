@@ -1,0 +1,6 @@
+sddk
+beautifulsoup4
+pandas
+numpy
+requests
+biblib
