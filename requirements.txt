@@ -1,6 +1,7 @@
-sddk
 beautifulsoup4
 pandas
 numpy
+sddk
 requests
 biblib
+matplotlib
